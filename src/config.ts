@@ -12,7 +12,7 @@ export const DEFAULT_CONFIG: Config = {
     expensiveBurnRate: 0.1,
     rateLimitWarning: 80,
   },
-  animation: { enabled: true, speedMultiplier: 10.0, idleTimeoutMs: 5000 },
+  animation: { enabled: true, speedMultiplier: 15.0, idleTimeoutMs: 5000 },
   theme: "default",
 };
 
