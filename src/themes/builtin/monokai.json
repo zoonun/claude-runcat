@@ -1,0 +1,14 @@
+{
+  "name": "monokai",
+  "displayName": "Monokai",
+  "description": "Warm editor classic",
+  "lineLayout": "expanded",
+  "showSeparators": false,
+  "colors": {
+    "model": "#F92672", "project": "#E6DB74", "context": "#A6E22E", "usage": "#66D9EF",
+    "warning": "#E6DB74", "usageWarning": "#FD971F", "critical": "#F92672",
+    "git": "#AE81FF", "gitBranch": "#66D9EF", "label": "dim", "custom": "#FD971F"
+  },
+  "bars": { "fill": "━", "empty": "─" },
+  "icons": { "running": "◆", "done": "✔", "progress": "›", "separator": "│" }
+}

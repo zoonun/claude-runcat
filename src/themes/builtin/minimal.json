@@ -1,0 +1,14 @@
+{
+  "name": "minimal",
+  "displayName": "Minimal",
+  "description": "Monochrome with one accent",
+  "lineLayout": "compact",
+  "showSeparators": false,
+  "colors": {
+    "model": "white", "project": "dim", "context": "cyan", "usage": "dim",
+    "warning": "yellow", "usageWarning": "yellow", "critical": "red",
+    "git": "dim", "gitBranch": "dim", "label": "dim", "custom": "cyan"
+  },
+  "bars": { "fill": "─", "empty": "·" },
+  "icons": { "running": "·", "done": "✓", "progress": "›", "separator": "│" }
+}

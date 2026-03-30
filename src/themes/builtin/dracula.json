@@ -1,0 +1,14 @@
+{
+  "name": "dracula",
+  "displayName": "🧛 Dracula",
+  "description": "Purple/pink dark theme",
+  "lineLayout": "expanded",
+  "showSeparators": true,
+  "colors": {
+    "model": "#bd93f9", "project": "#f1fa8c", "context": "#50fa7b", "usage": "#8be9fd",
+    "warning": "#f1fa8c", "usageWarning": "#ff79c6", "critical": "#ff5555",
+    "git": "#ff79c6", "gitBranch": "#8be9fd", "label": "#6272a4", "custom": "#ffb86c"
+  },
+  "bars": { "fill": "█", "empty": "░" },
+  "icons": { "running": "◐", "done": "✓", "progress": "▸", "separator": "│" }
+}

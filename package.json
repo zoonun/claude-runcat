@@ -1,0 +1,37 @@
+{
+  "name": "claude-runcat",
+  "version": "0.1.0",
+  "description": "Animated statusline for Claude Code with RunCat-style character animations",
+  "main": "dist/index.js",
+  "bin": {
+    "claude-runcat": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "generate-characters": "tsx scripts/generate-characters.ts",
+    "lint": "tsc --noEmit"
+  },
+  "keywords": [
+    "claude",
+    "statusline",
+    "runcat",
+    "terminal",
+    "animation"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "tsup": "^8.5.1",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.2",
+    "vitest": "^4.1.1"
+  },
+  "dependencies": {
+    "drawille": "^2.0.2",
+    "sharp": "^0.34.5"
+  }
+}

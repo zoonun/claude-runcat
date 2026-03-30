@@ -1,0 +1,14 @@
+{
+  "name": "default",
+  "displayName": "Default",
+  "description": "Standard claude-runcat colors",
+  "lineLayout": "expanded",
+  "showSeparators": false,
+  "colors": {
+    "model": "cyan", "project": "yellow", "context": "green", "usage": "blue",
+    "warning": "yellow", "usageWarning": "magenta", "critical": "red",
+    "git": "magenta", "gitBranch": "cyan", "label": "dim", "custom": 208
+  },
+  "bars": { "fill": "█", "empty": "░" },
+  "icons": { "running": "◐", "done": "✓", "progress": "▸", "separator": "│" }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "solarized",
+  "displayName": "☀ Solarized",
+  "description": "Warm sepia tone",
+  "lineLayout": "expanded",
+  "showSeparators": false,
+  "colors": {
+    "model": "#268BD2", "project": "#B58900", "context": "#859900", "usage": "#2AA198",
+    "warning": "#CB4B16", "usageWarning": "#D33682", "critical": "#DC322F",
+    "git": "#D33682", "gitBranch": "#6C71C4", "label": "#586E75", "custom": "#B58900"
+  },
+  "bars": { "fill": "█", "empty": "░" },
+  "icons": { "running": "◐", "done": "✓", "progress": "▸", "separator": "│" }
+}

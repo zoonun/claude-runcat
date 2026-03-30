@@ -1,0 +1,11 @@
+{
+  "name": "claude-runcat",
+  "version": "1.0.0",
+  "description": "Animated statusline for Claude Code with RunCat-style Braille character animations",
+  "author": {
+    "name": "zoonun"
+  },
+  "repository": "https://github.com/winter-loo/claude-runcat",
+  "license": "MIT",
+  "keywords": ["statusline", "animation", "runcat", "braille", "terminal"]
+}

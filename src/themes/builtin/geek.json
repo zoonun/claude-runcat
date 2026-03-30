@@ -1,0 +1,14 @@
+{
+  "name": "geek",
+  "displayName": "> Geek",
+  "description": "Hacker terminal, matrix green",
+  "lineLayout": "expanded",
+  "showSeparators": false,
+  "colors": {
+    "model": "#00FF41", "project": "#00CC33", "context": "#00FF41", "usage": "#009926",
+    "warning": "#CCFF00", "usageWarning": "#CCFF00", "critical": "#FF0000",
+    "git": "#00CC33", "gitBranch": "#00FF41", "label": "#006600", "custom": "#00FF41"
+  },
+  "bars": { "fill": "#", "empty": "·" },
+  "icons": { "running": ">", "done": "✓", "progress": "$", "separator": "│" }
+}

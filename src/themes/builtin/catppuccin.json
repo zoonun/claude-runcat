@@ -1,0 +1,14 @@
+{
+  "name": "catppuccin",
+  "displayName": "🐱 Catppuccin",
+  "description": "Soothing pastel palette",
+  "lineLayout": "expanded",
+  "showSeparators": false,
+  "colors": {
+    "model": "#cba6f7", "project": "#f9e2af", "context": "#a6e3a1", "usage": "#89b4fa",
+    "warning": "#fab387", "usageWarning": "#f5c2e7", "critical": "#f38ba8",
+    "git": "#f5c2e7", "gitBranch": "#89dceb", "label": "#6c7086", "custom": "#fab387"
+  },
+  "bars": { "fill": "█", "empty": "░" },
+  "icons": { "running": "●", "done": "✓", "progress": "▸", "separator": "│" }
+}

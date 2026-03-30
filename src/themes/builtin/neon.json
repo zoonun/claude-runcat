@@ -1,0 +1,14 @@
+{
+  "name": "neon",
+  "displayName": "⚡ Neon",
+  "description": "High contrast fluorescent",
+  "lineLayout": "compact",
+  "showSeparators": false,
+  "colors": {
+    "model": "#FF1493", "project": "#00FF41", "context": "#39FF14", "usage": "#00D4FF",
+    "warning": "#FFD700", "usageWarning": "#FF6EC7", "critical": "#FF0000",
+    "git": "#BF00FF", "gitBranch": "#00FFFF", "label": "#888888", "custom": "#FF8C00"
+  },
+  "bars": { "fill": "▮", "empty": "▯" },
+  "icons": { "running": "⚡", "done": "✓", "progress": "▸", "separator": "┃" }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "brainrot",
+  "displayName": "🗿 BrainRot",
+  "description": "Meme chaos energy",
+  "lineLayout": "expanded",
+  "showSeparators": false,
+  "colors": {
+    "model": "#FF00FF", "project": "#00FFFF", "context": "#FFFF00", "usage": "#FF4500",
+    "warning": "#FF69B4", "usageWarning": "#FF1493", "critical": "#FF0000",
+    "git": "#7B68EE", "gitBranch": "#00FF7F", "label": "#696969", "custom": "#FFD700"
+  },
+  "bars": { "fill": "💀", "empty": "🥶" },
+  "icons": { "running": "🗿", "done": "✅", "progress": "👉", "separator": "💀" }
+}

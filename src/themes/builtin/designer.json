@@ -1,0 +1,14 @@
+{
+  "name": "designer",
+  "displayName": "🎨 Designer",
+  "description": "Colorful emoji rainbow",
+  "lineLayout": "expanded",
+  "showSeparators": true,
+  "colors": {
+    "model": "#FF6B6B", "project": "#4ECDC4", "context": "#45B7D1", "usage": "#96CEB4",
+    "warning": "#FFEAA7", "usageWarning": "#DDA0DD", "critical": "#FF6B6B",
+    "git": "#C39BD3", "gitBranch": "#76D7C4", "label": "#AEB6BF", "custom": "#F39C12"
+  },
+  "bars": { "fill": "🟩", "empty": "⬜" },
+  "icons": { "running": "🔄", "done": "✅", "progress": "▶️", "separator": "│" }
+}

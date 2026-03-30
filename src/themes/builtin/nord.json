@@ -1,0 +1,14 @@
+{
+  "name": "nord",
+  "displayName": "❄ Nord",
+  "description": "Cool arctic blue tones",
+  "lineLayout": "expanded",
+  "showSeparators": false,
+  "colors": {
+    "model": "#88C0D0", "project": "#ECEFF4", "context": "#A3BE8C", "usage": "#81A1C1",
+    "warning": "#EBCB8B", "usageWarning": "#B48EAD", "critical": "#BF616A",
+    "git": "#B48EAD", "gitBranch": "#88C0D0", "label": "#4C566A", "custom": "#D08770"
+  },
+  "bars": { "fill": "▓", "empty": "▒" },
+  "icons": { "running": "◇", "done": "✓", "progress": "▹", "separator": "│" }
+}
